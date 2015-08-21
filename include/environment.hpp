@@ -51,7 +51,7 @@ namespace atria
 //!
 class Environment
 {
-
+public:
   //! Get environment variable
   //!
   //! The value returned by getenv() is wrapped in a string object.  This
